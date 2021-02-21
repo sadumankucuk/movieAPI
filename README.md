@@ -1,4 +1,4 @@
-[![Build status](https://api.travis-ci.com/sadumankucuk/movieAPI.svg)](https://travis-ci.com/github/sadumankucuk/movieAPI)
+[![Build status](https://api.travis-ci.com/sadumankucuk/movieAPI.svg?token=V7TMDdFUhxxKgPHhHRTR&branch=main&status=passed)](https://travis-ci.com/github/sadumankucuk/movieAPI)
 
 # Movies
 
