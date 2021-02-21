@@ -11,7 +11,7 @@ describe('Director tests', () => {
     before('Get Token', (done) => {
         chai.request(server)
             .post('/authenticate')
-            .send({ username: 'saduman2', password: '312121212' })
+            .send({ username: 'saduman2', password: 'qqqq' })
             .end((err, res) => {
                 if (err)
                     throw err;
